@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Engineering, Product Design, UI/UX, Graphics and also Mobile Development.
 - 🌱 I’m currently learning Data Engineering & Analysis
 - 💞️ I’m looking to collaborate on Data Related activities
-- 📫 You can reach me via email lkadir.tunde87@gmail.com, Mobile: 08137793991, Twitter: @ednut_1
+- 📫 You can reach me via email abdulkadir.tunde87@gmail.com, Mobile: 08137793991, Twitter: @ednut_1
 
 <!---
 22nnddee/22nnddee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
